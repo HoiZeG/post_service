@@ -1,4 +1,4 @@
-#В данном микросервисе разработал: 
+# В данном микросервисе разработал: 
 
 1) LikeController с REST API: https://github.com/HoiZeG/post_service/blob/phoenix-master-stream6/src/main/java/faang/school/postservice/controller/LikeController.java
 2) LikeMapper(MapStruct): https://github.com/HoiZeG/post_service/blob/phoenix-master-stream6/src/main/java/faang/school/postservice/mapper/LikeMapper.java
